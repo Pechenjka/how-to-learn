@@ -4,6 +4,6 @@
     width: 240px;
     margin-right: 100px;
 }
-.cards__item:nth-of-type(3) {
+.cards__item:nth-of-type(3n) {
     margin: 0;
 }

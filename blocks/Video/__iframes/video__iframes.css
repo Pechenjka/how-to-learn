@@ -3,5 +3,6 @@
     justify-content: center;
     align-items: center;
     margin: 0 auto 0;
+    padding: 0;
     transform: translate(0, 50px);   
 }
